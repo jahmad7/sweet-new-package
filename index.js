@@ -1,3 +1,3 @@
-module.exports = {
-    name: `»-(¯"·.·"¯)->{props.name}<-(¯"·.·"¯)-«`
+module.exports = props => {
+    return `»-(¯"·.·"¯)->${props}<-(¯"·.·"¯)-«`
 }

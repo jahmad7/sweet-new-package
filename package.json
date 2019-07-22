@@ -1,0 +1,22 @@
+{
+  "name": "sweet-new-package",
+  "version": "0.1.0",
+  "description": "trying to create a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jahmad7/sweet-new-package.git"
+  },
+  "keywords": [
+    "new-package"
+  ],
+  "author": "Junaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jahmad7/sweet-new-package/issues"
+  },
+  "homepage": "https://github.com/jahmad7/sweet-new-package#readme"
+}
